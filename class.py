@@ -47,7 +47,7 @@ class Items (object):
         Enter name of product
         to delete (items):
         ---------------------
-
+123
         =>  """))
 
         for item in self.items:
